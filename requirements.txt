@@ -1,0 +1,7 @@
+streamlit
+typing_extensions
+anthropic
+PyPDF2
+python-dotenv
+httpx
+openai

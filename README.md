@@ -1,16 +1,4 @@
-
-## RAG ChatBot
-ChatGPTのAssistants APIを使用した簡易的なRAG ChatBotアプリ
-
-フロントはStreamlit
-
-## アシスタントの設定
-以下のOpenAIのダッシュボードから確認できます↓
-https://platform.openai.com/playground/assistants?assistant=asst_4M9yI6q2c6YrvVKf347dPsAX&mode=assistant
-
-エートスのアカウントで確認できます。
-
-⚠️システムプロンプトについては上記のダッシュボードではなく、`src/prompt/instructions.py`で定義しているので注意してください。
+## python template
 
 ## pythonのバージョン管理
 
